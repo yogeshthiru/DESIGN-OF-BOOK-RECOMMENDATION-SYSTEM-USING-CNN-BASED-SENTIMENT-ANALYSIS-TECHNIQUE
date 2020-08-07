@@ -1,0 +1,13 @@
+-------------------------django implementation--------------------------
+1.download and install django using your cmd
+2.and mount the login folder in the users/username 
+3.then run the django server using python manage.py runserver command
+4.execute the code using the 27.0.0.1:8000/dashboard
+ 
+--------------------------dependent xampp server implementation----------------------
+1.install xampp server
+2.replace the htdocs folder in xampp folder using the given one
+3.replace with mysql files given
+4.run http://localhost/phpmyadmin
+5.you the see the book details database
+6.run the code from http://localhost/start/bib/index.html to start the code!
