@@ -1,0 +1,7 @@
+1.start the jupiter notebook
+2.open the .ipynb file 
+3.load the datasets (reviews1.csv)
+4.run the code blocks
+5.the outputs are
+	-score and accuracy of the model
+	-graphs
