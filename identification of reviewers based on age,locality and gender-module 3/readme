@@ -1,0 +1,4 @@
+import the database file to your xampp mysql to see the results.
+
+you can find the nested subquery for identifying the reviewers based on 
+age,locality and gender.
