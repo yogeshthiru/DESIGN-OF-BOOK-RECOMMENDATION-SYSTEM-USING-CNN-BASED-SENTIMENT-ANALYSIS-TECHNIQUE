@@ -1,0 +1,7 @@
+1.start the jupyter notebook
+2.open the .ipynb file 
+3.load the datasets (reviewers.csv) 
+4.run the code blocks
+5.the outputs are
+	-score and accuracy of the model
+	-recommendation by popularity and item to item collaborative filtering algorithms.
